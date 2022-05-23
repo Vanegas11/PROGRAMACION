@@ -5,8 +5,6 @@ Autor: Alisson Valeska Vanegas Corozo
 
 Correo electronico de contacto: alisson.vanegas.corozo@utelvt.edu.ec
 
-Video:
-
 ## Programas
 Compara.cpp
 Suma.cpp 
